@@ -1,0 +1,14 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "addin",
+    "id": "c31c2cdd-1cb5-4c7c-b5d6-751783082c56",
+    "author": "ccatlett1984",
+    "description": {
+        "": "Find duplicate and overlapping lines, arcs and circles in a sketch; highlight, zoom to, and optionally remove them."
+    },
+    "version": "1.0.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true,
+    "license": "AGPL-3.0-only"
+}
